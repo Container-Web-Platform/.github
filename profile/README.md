@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 these are our git repositories for automation and administration of the Container and Web platforms.
-If you want access to our code please write an email to rancher@basf.com
+If you want access to our code please write an email to rancher@basf.com.
+
+We are developing and mainting Ansible playbooks for all our operational tasks.
+The goal is to fully automate everything.
+
 <!--
 
 **Here are some ideas to get you started:**
